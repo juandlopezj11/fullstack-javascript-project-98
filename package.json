@@ -22,5 +22,8 @@
   "homepage": "https://github.com/juandlopezj11/fullstack-javascript-project-98#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
   }
 }

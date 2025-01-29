@@ -1,6 +1,11 @@
 # Makefile para manejar comandos del proyecto
 
+node bin/brain-games-js
+
+
 install:
 	npm ci
 
-node bin/brain-games.js
+
+publish:
+	npm publish --dry-run
